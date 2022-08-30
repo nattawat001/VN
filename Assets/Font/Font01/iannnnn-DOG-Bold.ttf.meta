@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fa6cee4ba6de27f4c9bb40ea2c909ad9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iannnnn-DOG
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3f8b5b22c0d231449fac4f4b6a266ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
