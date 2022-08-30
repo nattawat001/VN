@@ -7,7 +7,7 @@ public class S1 : MonoBehaviour
     // Start is called before the first frame update
     public TextAsset textFile;
     string[] line = new string[7];
-    string[] names = {"Jason","Sarah"};
+    string[] names = {"","Jason","Sarah"};
     Text textDisplay;
     int currentLine = 0;
     
